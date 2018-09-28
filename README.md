@@ -24,9 +24,9 @@ npm run build --report
 
 ![home](../master/img/header.png)
 
-![home](../master/img/home.png)
+![home](../master/img/homeF.png)
 
-![contact](../master/img/contact.png)
+![contact](../master/img/contactme.png)
 
 
 
