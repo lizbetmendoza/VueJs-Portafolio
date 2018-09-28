@@ -1,7 +1,6 @@
 # My Portafolio
 
-> My portafolio is a Vue.js project single web page, appliying basic concepts such as routing, components and  add a Bulma CSS framework
-[BULMA](https://bulma.io/)
+> My portfolio is a Vue.js project single web page, applying basic concepts such as routing, components and adding a [BULMA](https://bulma.io/) CSS framework
 
 ## Build Setup
 
@@ -23,11 +22,11 @@ npm run build --report
 ## Vue.Js and Bulma works great together for better user experience
 >The Web page looks like this,
 
-![home](../master/img/home.jpg)
+![home](../master/img/home.png)
 
-![home](../master/img/home1.jpg)
+![home](../master/img/home1.png)
 
-![contact](../master/img/home.jpg)
+![contact](../master/img/home.png)
 
 
 
