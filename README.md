@@ -22,11 +22,11 @@ npm run build --report
 ## Vue.Js and Bulma works great together for better user experience
 >The Web page looks like this,
 
+![home](../master/img/header.png)
+
 ![home](../master/img/home.png)
 
-![home](../master/img/home1.png)
-
-![contact](../master/img/home.png)
+![contact](../master/img/contact.png)
 
 
 
